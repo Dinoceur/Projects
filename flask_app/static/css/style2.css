@@ -1,0 +1,45 @@
+.nav {
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+}
+
+.body{
+    background: url(../img/verse2.gif) no-repeat center center fixed;
+}
+
+.body2{
+    background: url(../img/verse2.gif) no-repeat center center fixed;
+    height: 100vh;
+}
+
+.body3{
+    background: url(../img/verse1.gif) no-repeat center center fixed;
+}
+
+.body4{
+    background: url(../img/verse5.gif) no-repeat center center fixed;
+}
+
+.body, .body2, .body3, .body4{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.card {
+    max-width: 35%;
+    margin: 250px;
+    background-color: #20222a;
+}
+
+li {
+    list-style: none;
+}
+
+.boxes {
+    border-radius: 5px;
+}

@@ -1,0 +1,25 @@
+.body3{
+    background: url(../img/verse1.gif) no-repeat center center fixed;
+}
+
+.card {
+    max-width: 50%;
+    margin: 75px;
+    background-color: #20222a;
+}
+
+.body3{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow: hidden;
+}
+
+li {
+    list-style: none;
+}
+
+.boxes {
+    border-radius: 5px;
+}
